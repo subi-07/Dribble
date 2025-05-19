@@ -137,10 +137,6 @@ main.html:
             </div>
         </div>
     </div>
-
-    <footer class="bg-dark text-white text-center py-3">
-        <p>All rights reserved by Kishore.V</p>
-    </footer>
     <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.bundle.min.js"></script>
 </body>
@@ -149,7 +145,7 @@ main.html:
 ```
 
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/406cdf68-336e-48e7-80c7-bc077b0e3ce1)
+![Screenshot 2025-05-19 114400](https://github.com/user-attachments/assets/43691db5-c247-4f26-849a-d401b002e03a)
 
 ## RESULT:
 The Project for responsive web design using Bootstrap is completed successfully.
